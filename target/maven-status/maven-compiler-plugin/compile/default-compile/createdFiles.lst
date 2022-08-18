@@ -1,0 +1,7 @@
+org\example\implementation\UserManagerDatabaseImpl.class
+org\example\implementation\UserManagerInMemoryImpl.class
+org\example\model\User.class
+org\example\Main.class
+org\example\servlet\UserServlet.class
+org\example\userinterface\UserOperations.class
+org\example\connection\MySQLConnection.class
